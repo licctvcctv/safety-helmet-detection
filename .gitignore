@@ -1,0 +1,10 @@
+venv/
+.venv/
+.venv_smoke/
+.python311/
+.downloads/
+test_results/
+__pycache__/
+*.pyc
+result/
+*.log
